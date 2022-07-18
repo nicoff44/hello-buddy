@@ -1,1 +1,3 @@
-Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/rails-templates), created by the [Le Wagon coding bootcamp](https://www.lewagon.com) team.
+Team project done in two weeks at the end of Le Wagon 9 weeks' bootcamp with ThomaSneazy, zorgness and FatFatFr.
+Never go out on activities alone anymore!
+https://hello--buddy.herokuapp.com/
